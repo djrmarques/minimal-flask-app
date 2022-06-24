@@ -13,3 +13,6 @@ build:
 	
 run:
 	flask run
+	
+debug:
+	FLASK_ENV=development flask run
