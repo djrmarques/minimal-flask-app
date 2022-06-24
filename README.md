@@ -8,3 +8,4 @@ This projects contains the following:
 - Makefile with relevant commands;
 - Dockerfile to generate docker image;
 - Github actions to generate a Docker image and publish it on Github packages.
+- Dependabot for github actions
