@@ -13,4 +13,6 @@ This projects contains the following:
 I may end up adding other features or slightly altering the folder structure as I go. 
 
 # How to use
-Either close or fork this repo, and then start altering the existing code however you want. 
+Either clone or fork this repo, and then start altering the existing code however you want. See [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) how to duplicate a repo. 
+
+
